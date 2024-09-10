@@ -48,16 +48,3 @@ Este projeto está sob a licença MIT. Você é livre para usá-lo, modificá-lo
 
 **#JavaScript #HTML #CSS #DesenvolvimentoWeb #Esportes**
 
-**[Adicione aqui um GIF animado ou uma imagem divertida para ilustrar o README]**
-
-**Dica:** Para deixar o README ainda mais legal, você pode adicionar badges para mostrar as tecnologias utilizadas, como o número de estrelas do repositório, etc.
-
-**Observações:**
-
-* **Personalize:** Adapte o texto para refletir a sua personalidade e o estilo do seu projeto.
-* **Seja claro e conciso:** Use uma linguagem simples e direta para que qualquer pessoa possa entender.
-* **Use emojis:** Emojis ajudam a tornar o README mais divertido e fácil de ler.
-* **Adicione imagens e GIFs:** Imagens e GIFs ajudam a visualizar o projeto e torná-lo mais interessante.
-* **Incentive a colaboração:** Deixe claro que você está aberto a contribuições.
-
-Com este README, você terá um arquivo chamativo e informativo que irá atrair a atenção de outros desenvolvedores e usuários.
